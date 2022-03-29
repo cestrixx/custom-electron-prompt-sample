@@ -1,0 +1,17 @@
+{
+  "name": "custom-electron-prompt-sample",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/cestrixx/custom-electron-prompt-sample.git",
+  "author": "cestrixx <cestrix@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^18.0.0"
+  },
+  "dependencies": {
+    "custom-electron-prompt": "^1.4.2"
+  }
+}
